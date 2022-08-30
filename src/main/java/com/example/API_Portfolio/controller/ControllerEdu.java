@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @CrossOrigin(origins = "https://portfoliodeleonibus.web.app/",maxAge = 3600)
-@RequestMapping({"/estudio"})
+@RequestMapping({"/bq1w7g1ex7509pfg59vk/estudio"})
 public class ControllerEdu {
     
     @Autowired

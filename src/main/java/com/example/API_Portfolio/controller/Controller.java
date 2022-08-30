@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @CrossOrigin(origins = "https://portfoliodeleonibus.web.app/",maxAge = 3600)
-@RequestMapping({"/elemento"})
+@RequestMapping({"/bq1w7g1ex7509pfg59vk/elemento"})
 public class Controller {
     
      @Autowired
