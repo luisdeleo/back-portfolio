@@ -16,16 +16,14 @@ public class Elemento {
     private Long id;
     private String titulo;
     private String descripcion;
-    private String seccion;
 
    public Elemento(){
    }
    
-   public Elemento(Long id, String titulo, String descripcion, String seccion) {
+   public Elemento(Long id, String titulo, String descripcion) {
        
        this.id = id;
        this.titulo = titulo;
        this.descripcion = descripcion;
-       this.seccion = seccion;
    }
 }
