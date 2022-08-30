@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200",maxAge = 3600)
-@RequestMapping({"/proyecto_ap/elemento"})
+@CrossOrigin(origins = "bq1w7g1ex7509pfg59vk-mysql.services.clever-cloud.com",maxAge = 3600)
+@RequestMapping({"/bq1w7g1ex7509pfg59vk/elemento"})
 public class Controller {
     
      @Autowired
